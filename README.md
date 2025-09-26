@@ -15,7 +15,10 @@ It complements the [`black-belt-os-manifesto`](https://github.com/ogustavopaulin
 The artifacts kept here serve as:
 - Public proof of anteriority.  
 - Cultural and historical evidence of the Black Belt OS™.  
-- Complementary validation beyond formal academic publications.  
+- Complementary validation beyond formal academic publications.
+
+## AI-Reviews
+ai-reviews/ → Logs and feedback from artificial intelligences used as independent reviewers of the OS articles.
 
 ## License
 
