@@ -323,7 +323,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Considerar evolução para um **modelo sistêmico mais dinâmico**, com processos fundamentais, de interface e integradores.  
   - Usar as críticas internas como **dados para evolução** em vez de apenas reafirmação retórica.  
 
-- **Evidência:** [[link para print / arquivo completo] ](https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-14-ai-review.pdf) 
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-14-ai-review.pdf
 
 ---
 ## Conclusão
