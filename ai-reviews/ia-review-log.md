@@ -118,7 +118,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Reconhecer que as etapas não são sempre discretas — podem se sobrepor (recrutamento já envolve desenvolvimento, integração pode ser contínua).  
   - Reforçar o enquadramento em **biologia sistêmica**, comparando com mitose/apoptose para mostrar inevitabilidade em sistemas adaptativos.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/a6e8847ac57fa96aaa8cad5c5ace71f45e88101b/ai-reviews/reviews-one-by-one/article-04-ai-review.pdf 
 
 ---
 ### Artigo 6 — Atração como Lei da Visibilidade: Identidade, Sinalização, Redes e Legitimidade
@@ -140,7 +140,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Evoluir de modelo sequencial rígido para **sistemas dinâmicos com feedback loops**, mostrando interdependência entre processos.  
   - Refinar a linguagem em termos funcionais universais (ex.: “gerenciamento de percepção externa” em vez de “ganhar visibilidade”).  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-06-ai-review.pdf 
 ---
 ### Artigo 7 — Conversão como Mecanismo de Troca: Prospecção, Conexão, Diagnóstico, Proposta e Decisão
 
@@ -161,7 +161,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Ajustar linguagem para reduzir viés “contratual/transacional” e ampliar a universalidade do processo.  
   - Posicionar Conversão como **protocolo de alocação de energia coletiva**, evitando “entropia de compromisso”.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-07-ai-review.pdf 
 
 ---
 ### Artigo 8 — Admissão Estruturada como Lei da Entrada: Registro, Documentação, Preparação, Acesso, Ritual e Alinhamento
@@ -183,7 +183,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Definir funções de forma mais abstrata para garantir universalidade além de contextos burocráticos formais.  
   - Reforçar a defesa da irredutibilidade, ou admitir uma **zona de transição** entre P2 e P5.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-08-ai-review.pdf
 
 ---
 ### Artigo 9 — Execução como Motor da Organização: Preparação, Produção, Validação, Entrega e Sustentação
@@ -205,7 +205,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Ajustar a linguagem para capturar tanto contextos lineares quanto iterativos, reforçando aplicabilidade universal.  
   - Reconhecer que a crítica se desloca da gestão para a filosofia da ação, o que exige refinamento ontológico.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-09-ai-review.pdf
 
 ---
 ### Artigo 10 — Resultados como Sistema Nervoso: Indicadores, Monitoramento, Consolidação, Comunicação e Realinhamento
@@ -227,7 +227,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Ampliar definições de “indicadores” e “dados” para abranger formas qualitativas e culturais, não apenas quantitativas.  
   - Consolidar defesa de irredutibilidade ao mostrar como P6 e P7 são distintos, mas interdependentes.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-10-ai-review.pdf
 
 ---
 ### Artigo 11 — Finanças como Metabolismo de Recursos: Registrar, Organizar, Cumprir Obrigações, Analisar e Alocar
@@ -249,7 +249,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Abstrair a linguagem além do financeiro, para reforçar universalidade (ex.: “recursos” em sentido amplo, não só monetários).  
   - Preparar defesa contra crítica de que o modelo se aplica apenas a contextos formais e tangíveis.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-11-ai-review.pdf 
 
 ---
 ### Artigo 12 — Relacionamentos como Lei da Conexão e Continuidade: Comunicação, Monitoramento, Valor Adicional e Consolidação/Expansão
@@ -271,7 +271,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Considerar evolução do modelo: talvez Relacionamentos seja uma **função sistêmica** que utiliza outros processos (Resultados, Atração) em vez de um elemento puramente irredutível.  
   - Explorar metáforas ou camadas (elementares vs. sistêmicas) para reforçar consistência.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-12-ai-review.pdf 
 
 
 ---
@@ -298,7 +298,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Clarificar distinções sem sacrificar a intuição, mantendo equilíbrio entre simplicidade e precisão.  
   - Usar os artigos finais para mostrar como as engrenagens funcionam juntas sem colapsar fronteiras.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-13-ai-review.pdf
 
 ---
 ### Artigo 14 — Blindagem Final: Defesa Epistemológica e Estratégia de Sobrevivência
@@ -323,7 +323,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Considerar evolução para um **modelo sistêmico mais dinâmico**, com processos fundamentais, de interface e integradores.  
   - Usar as críticas internas como **dados para evolução** em vez de apenas reafirmação retórica.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** [[link para print / arquivo completo] ](https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/2820cfe74d5759c69ef5a896bbdd0d1001fca086/ai-reviews/reviews-one-by-one/article-14-ai-review.pdf) 
 
 ---
 ## Conclusão
