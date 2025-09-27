@@ -56,7 +56,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Detalhar melhor a **metodologia de descoberta** do número fechado 9–45–98, para evitar a impressão de arbitrariedade.  
   - Ilustrar a universalidade com **exemplos concretos** em contextos diferentes (startup, mosteiro, cartel).  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** [ai-reviews/reviews-one-by-one/article-02-ai-review.pdf]  
 
 ---
 ### Artigo 3 — A Tabela Periódica da Organização: Fronteiras, Proposições e o Ciclo dos 9 Processos
