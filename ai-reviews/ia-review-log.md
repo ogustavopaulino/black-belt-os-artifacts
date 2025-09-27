@@ -56,7 +56,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Detalhar melhor a **metodologia de descoberta** do número fechado 9–45–98, para evitar a impressão de arbitrariedade.  
   - Ilustrar a universalidade com **exemplos concretos** em contextos diferentes (startup, mosteiro, cartel).  
 
-- **Evidência:** (ai-reviews/reviews-one-by-one/article-02-ai-review.pdf)
+- **Evidência:** [(ai-reviews/reviews-one-by-one/article-02-ai-review.pdf)](https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/a6e8847ac57fa96aaa8cad5c5ace71f45e88101b/ai-reviews/reviews-one-by-one/article-02-ai-review.pdf)
 
 ---
 ### Artigo 3 — A Tabela Periódica da Organização: Fronteiras, Proposições e o Ciclo dos 9 Processos
@@ -78,7 +78,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Reavaliar a estratégia de publicação: questionar se as seções de fronteiras e proposições poderiam ter sido integradas ao Artigo 1, em vez de estarem separadas.  
   - Usar artigos seguintes para ilustrar com exemplos empíricos a interconexão dos processos e reforçar a lógica proposta.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:**  https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/a6e8847ac57fa96aaa8cad5c5ace71f45e88101b/ai-reviews/reviews-one-by-one/article-03-ai-review.pdf
 ---
 ### Artigo 4 — Implementação como Processo Portal: 7 Passos e 14 Ações
 
@@ -98,7 +98,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Revisar a causalidade da teoria: substituir “colapso inevitável” por **“vulnerabilidade crítica”**, mais realista em ciências sociais.  
   - Aplicar o “teste da família/tribo” para validar a linguagem e as ações em contextos não formais.  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** https://github.com/ogustavopaulino/black-belt-os-artifacts/blob/a6e8847ac57fa96aaa8cad5c5ace71f45e88101b/ai-reviews/reviews-one-by-one/article-04-ai-review.pdf 
 ---
 ### Artigo 5 — Pessoas como Corpo Vivo: Recrutamento, Integração, Desenvolvimento e Liberação
 
