@@ -34,7 +34,7 @@ Registrar o uso de inteligências artificiais (ex.: Google Gemini) como avaliado
   - Preparar metodologia clara para operacionalizar as 98 ações de forma observável e testável em campo.  
   - Refinar a discussão da alegação **fractal**, mostrando como os 9 processos se manifestam em diferentes escalas (família, empresa, exército).  
 
-- **Evidência:** [link para print / arquivo completo]  
+- **Evidência:** ai-reviews/reviews-one-by-one/article-01-ai-review.pdf
 
 ---
 ### Artigo 2 — Da Macroestrutura à Microestrutura: 45 Passos e 98 Ações do Black Belt OS
